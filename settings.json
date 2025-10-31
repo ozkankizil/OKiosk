@@ -1,0 +1,10 @@
+{
+  "HomeUrl": "https://www.google.com",
+  "AllowedOrigins": [
+    "https://www.google.com",
+    "*.antalya.bel.tr",
+    "*.abb.bel.tr"
+  ],
+  "CustomJs": "",
+  "CustomCss": ""
+}

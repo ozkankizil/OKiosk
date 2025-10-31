@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPeN97APg/8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\OKiosk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozkan.kizil\\.nuget\\packages\\microsoft.web.webview2\\1.0.3537.50\\microsoft.web.webview2.1.0.3537.50.nupkg.sha512"
+  ],
+  "logs": []
+}
