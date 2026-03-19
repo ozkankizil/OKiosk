@@ -20,7 +20,7 @@ namespace OKiosk
     public partial class PasswordWindow : Window
     {
         public bool IsAuthenticated { get; private set; } = false;
-        private const string AdminPassword = "adm135!"; // burayı istersen settings.json'a taşıyabiliriz
+        private const string AdminPassword = "adm135"; // burayı istersen settings.json'a taşıyabiliriz
 
         public PasswordWindow()
         {

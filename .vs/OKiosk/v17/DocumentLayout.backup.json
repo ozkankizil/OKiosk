@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|c:\\users\\ozkan.kizil\\source\\repos\\okiosk\\okiosk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51401BE3-7262-4A8E-AC1A-F245FCCF065C}|OKiosk.csproj|solutionrelative:okiosk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "AdminWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:38:47.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "Services\\SettingsService.cs",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\Services\\SettingsService.cs",
+              "RelativeToolTip": "Services\\SettingsService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:34:41.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "settings.json",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\settings.json",
+              "RelativeDocumentMoniker": "settings.json",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\settings.json",
+              "RelativeToolTip": "settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T05:34:31.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\PasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\PasswordWindow.xaml.cs",
+              "RelativeToolTip": "PasswordWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:34:26.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\PasswordWindow.xaml",
+              "RelativeDocumentMoniker": "PasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\PasswordWindow.xaml",
+              "RelativeToolTip": "PasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T05:34:18.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T05:39:05.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\Models\\AppSettings.cs",
+              "RelativeToolTip": "Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:39:09.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:39:25.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:48:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OKiosk.csproj",
+              "DocumentMoniker": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\OKiosk.csproj",
+              "RelativeDocumentMoniker": "OKiosk.csproj",
+              "ToolTip": "C:\\Users\\ozkan.kizil\\source\\repos\\OKiosk\\OKiosk.csproj",
+              "RelativeToolTip": "OKiosk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T06:29:02.616Z"
             }
           ]
         }

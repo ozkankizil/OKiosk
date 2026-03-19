@@ -1,0 +1,8 @@
+{
+  "HomeUrl": "https://x.com/home",
+  "AllowedOrigins": [
+    "https://x.com/home"
+  ],
+  "CustomJs": "",
+  "CustomCss": ""
+}

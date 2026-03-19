@@ -1,5 +1,0 @@
-{
-  "HomeUrl": "https://www.google.com",
-  "CustomJs": "",
-  "CustomCss": "body { background-color: pink !important; } h1 { color: red; }"
-}

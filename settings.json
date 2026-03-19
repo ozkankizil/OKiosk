@@ -1,7 +1,7 @@
 {
-  "HomeUrl": "https://www.google.com",
+  "HomeUrl": "https://www.youtube.com",
   "AllowedOrigins": [
-    "https://www.google.com",
+    "https://www.youtube.com"
   ],
   "CustomJs": "",
   "CustomCss": ""
